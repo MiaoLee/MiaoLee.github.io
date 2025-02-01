@@ -10,6 +10,8 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "logo-mini.png"
+description = "I am a watercolor and acrylic artist who loves creating art that captures the beauty of the world around us."
+keywords = ["LM Art Studio", "watercolor", "acrylic", "gallery", "commission", "custom piece", "Miao Li", "Auckland", "New Zealand"]
 
 [params.author]
 name = "LM Art Studio"
